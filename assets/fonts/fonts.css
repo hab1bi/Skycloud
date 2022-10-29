@@ -1,0 +1,124 @@
+@font-face {
+    font-family: 'Inter-Medium';
+    src: url(./Inter-Medium.ttf);
+}
+@font-face {
+    font-family: 'Inter-Regular';
+    src: url(./Inter-Regular.ttf);
+}
+@font-face {
+    font-family: 'Inter-SemiBold';
+    src: url(./Inter-SemiBold.ttf);
+}
+
+
+@font-face {
+    font-family: 'Montserrat-Black';
+    src: url(./Montserrat-Black.ttf);
+}
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url(./Montserrat-Bold.ttf);
+}
+@font-face {
+    font-family: 'Montserrat-ExtraBold';
+    src: url(./Montserrat-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'Montserrat-Medium';
+    src: url(./Montserrat-Medium.ttf);
+}
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url(./Montserrat-Regular.ttf);
+}
+@font-face {
+    font-family: 'Montserrat-SemiBold';
+    src: url(./Montserrat-SemiBold.ttf);
+}
+
+
+@font-face {
+    font-family: 'Roboto-Black';
+    src: url(./Roboto-Black.ttf);
+}
+@font-face {
+    font-family: 'Roboto-Bold';
+    src: url(./Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: 'Roboto-Light';
+    src: url(./Roboto-Light.ttf);
+}
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url(./Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url(./Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: 'Poppins-Medium';
+    src: url(./Poppins-Medium.ttf);
+}
+
+
+.fa-brands {
+    font-family: 'fontAwesome-brands';
+    font-style: normal;
+}
+
+.fa-duotone {
+    font-family: 'fontAwesome-duotone';
+    font-style: normal;
+}
+
+.fa-solid {
+    font-family: 'fontAwesome-solid';
+    font-style: normal;
+}
+
+.fa-regular {
+    font-family: 'fontAwesome-regular';
+    font-style: normal;
+}
+
+.fa-light, .fa-thin {
+    font-family: 'fontAwesome-light';
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Comfortaa-Regular';
+    src: url(./Comfortaa-Regular.ttf);
+}
+@font-face {
+    font-family: 'Comfortaa-Bold';
+    src: url(./Comfortaa-Bold.ttf);
+}
+@font-face {
+    font-family: "fontAwesome-regular";
+    src: url(../fonts/fontAwesome/fa-regular-400.woff2);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "fontAwesome-light";
+    src: url(../fonts/fontAwesome/fa-light-300.woff2);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "fontAwesome-duotone";
+    src: url(../fonts/fontAwesome/fa-duotone-900.woff2);
+    font-weight: 900;
+}
+@font-face {
+    font-family: "fontAwesome-brands";
+    src: url(../fonts/fontAwesome/fa-brands-400.woff2);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "fontAwesome-solid";
+    src: url(../fonts/fontAwesome/fa-solid-900.woff2);
+    font-weight: 900;
+}
